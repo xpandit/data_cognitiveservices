@@ -1,3 +1,3 @@
-#[Data Factory](DataFactory.md)
+## [Data Factory](DataFactory.md)
 
-#[Cognitive Services](CognitiveLab.md)
+## [Cognitive Services](CognitiveLab.md)
